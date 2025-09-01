@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+
+# Environment variables
+.env
+
+# Google credentials
+calcium-field-466916-e7-97649194865c.json
+
+# CSV exports
+*.csv

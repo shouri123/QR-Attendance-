@@ -1,0 +1,9 @@
+Flask==3.1.2
+gunicorn
+gspread
+google-auth
+google-auth-oauthlib
+oauth2client
+requests
+qrcode
+python-dotenv
