@@ -60,5 +60,5 @@ A Flask-based smart attendance system that uses **QR codes** to mark student att
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/attendance-system.git
+   git clone https://github.com/shouri123/QR-Attendance-.git
    cd attendance-system
