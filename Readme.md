@@ -8,8 +8,6 @@ A Flask-based smart attendance system that uses **QR codes** to mark student att
 
 ## 🎥 Demo  
 
-## 🎥 Demo
-
 [![Watch the video](https://img.icons8.com/ios-filled/50/play--v1.png)](./QR%20Attendance%20App%20Demonstration%20Video.mp4)
 
 *(Click the play button above to view the demo)*  
