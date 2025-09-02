@@ -23,7 +23,7 @@ A Flask-based smart attendance system that uses **QR codes** to mark student att
 - **Frontend**: HTML Templates (Jinja2, Bootstrap/Tailwind optional)  
 - **Database**: Google Sheets (via Google API)  
 - **Email Service**: SMTP (Gmail / custom config)  
-- **Hosting (Planned)**: Render  
+- **Hosting **: Render  
 
 ---
 
