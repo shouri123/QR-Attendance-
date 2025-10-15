@@ -1,4 +1,4 @@
-# 📌 Smart Attendance System with QR Code
+## 📌 Smart Attendance System with QR Code
 
 A Flask-based smart attendance system that uses **QR codes** to mark student attendance in real time and integrates with **Google Sheets** to automatically update records.  
 
