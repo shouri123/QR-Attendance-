@@ -39,7 +39,7 @@ A Flask-based smart attendance system that uses **QR codes** to mark student att
 3. **Repeat for All Students**  
    - Continue scanning each student’s QR code until all are marked.  
 
-4. **Scan STOP QR** 🛑  
+4. **Scan STOP QR** 
    - Once all students are marked, scan the special **STOP QR code**.  
    - This will stop the attendance process.  
 
